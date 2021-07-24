@@ -64,9 +64,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AutoCookie.cs" />
+    <Compile Include="Assets\Scripts\GlobalBaker.cs" />
     <Compile Include="Assets\Scripts\GlobalCash.cs" />
     <Compile Include="Assets\Scripts\GlobalCookies.cs" />
     <Compile Include="Assets\Scripts\MainButtonClick.cs" />
+    <Compile Include="Assets\Scripts\PurchaseLog.cs" />
     <Compile Include="Assets\Scripts\SellCookie.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/TugasKampus/GithubRepository/taptapgames/taptapgames/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
