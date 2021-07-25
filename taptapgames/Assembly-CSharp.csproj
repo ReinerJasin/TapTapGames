@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AutoCookie.cs" />
+    <Compile Include="Assets\Scripts\DisasterScript.cs" />
     <Compile Include="Assets\Scripts\GlobalBaker.cs" />
     <Compile Include="Assets\Scripts\GlobalCash.cs" />
     <Compile Include="Assets\Scripts\GlobalCookies.cs" />
